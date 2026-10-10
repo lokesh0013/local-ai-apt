@@ -1,0 +1,15 @@
+Package: local-ai-service
+Version: 1.0.0
+Architecture: amd64
+Maintainer: Local AI <local-ai@example.invalid>
+Depends: python3, python3-flask
+Filename: pool/main/l/local-ai-service/local-ai-service_1.0.0_amd64.deb
+Size: 11474
+MD5sum: 98e5b7d4dccf480dbc09d27bcd733fe7
+SHA1: 5e6cb05da53c14d83f292c36245a3eac270de465
+SHA256: 03db516f81fcc91e9ee8705f330f77a00c70a94b9b15c49ad0acf48e51e92832
+Section: misc
+Priority: optional
+Description: Local AI chat application powered by Ollama
+ A local web interface for chatting with locally running Ollama models.
+
