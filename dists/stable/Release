@@ -1,20 +1,20 @@
 Architectures: amd64
 Codename: stable
 Components: main
-Date: Sat, 10 Oct 2026 14:45:13 +0000
+Date: Sat, 10 Oct 2026 15:11:11 +0000
 Description: Local AI Service Packages
 Label: Local AI
 Origin: Local AI
 Suite: stable
 MD5Sum:
- 0a5868ac17d2355bc46c9804623e5e2b              179 Release
- 4a4dd3598707603b3f76a2378a4504aa               20 main/binary-amd64/Packages.gz
+ 749f02b0b782bbfe067339440eb98d5a              179 Release
+ 913095bf99c6fbe17418b4f150b6c977              390 main/binary-amd64/Packages.gz
 SHA1:
- aa520af8e7742bfa9ecc975c859737faf078865c              179 Release
- a0fddd5458378c1bf3c10dd2f5c060d1347741ed               20 main/binary-amd64/Packages.gz
+ c6d9be947d7a989e0cca7b528a3070a261d6eba9              179 Release
+ 951ea00e23c0fa624babc639c83bade7891dc1f4              390 main/binary-amd64/Packages.gz
 SHA256:
- 81950f9464ef590f057397855da11bc07bf5023883e4085a56a345fa1c573761              179 Release
- f61f27bd17de546264aa58f40f3aafaac7021e0ef69c17f6b1b4cd7664a037ec               20 main/binary-amd64/Packages.gz
+ 4cde16a25fcd5751627c9e9496295a7f99eed50842e9512253b18950084fb66a              179 Release
+ cab442590bcae53ecbab4a0edc1a455b5c26e953e32924fd4e55fe828f96b2e9              390 main/binary-amd64/Packages.gz
 SHA512:
- a528d0c3af23e558da2e2aa78d78621b96f5df61d0361d9861aca80ac3537a5489f0a3a48e457edee920d726cc0773f5f2e9991c8ab2d4c6b533f958713a1f45              179 Release
- 1b46b9b08d5b338be9d732a1724795b2eab63daffde377218727c90857b79fe6a47bceed495117fcde60f7339812ef75ef4c69f82dd79fb69b6cbf8006b521f2               20 main/binary-amd64/Packages.gz
+ 026d0ad9334e1eccf3971c37caed7b40c9e3c56a1e3273c747954a51d8a34c2c63fc9d9c672e060c94bb8f8469df3cf2ba8b6d4255bea1803eb410f51a95b8ed              179 Release
+ 11004c644c021d2c9d719f89f6df4cbfbb326ead71fe6038efa878fdb1c796f872ec4636c1810ad9937e8211b1cc2f7146f0c6e1f9ea9d60afacbd4554271e08              390 main/binary-amd64/Packages.gz
